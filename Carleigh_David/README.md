@@ -16,14 +16,12 @@ This is an example project in the FCD S22 repo. It is meant to demonstrate the c
 
 ## Instructions for Use
 
-This project uses a _Grasshopper_ script&mdash; which is a file that contains the algorithm to generatively design our spaceframe. You must have Rhino X to open the `.3dm` file.
+This project uses a _Grasshopper_ script&mdash; which is a file that contains the algorithm to generatively design our spaceframe and placement of planels on facade. You must have Rhino 7 to open the `.3dm` file.
 
 **Dependencies**
 
 The _Grasshopper_ script uses:
   - Lunchbox
-  - Ladybug
-  - Pufferfish
 
 Install these dependencies and then open the `.gh` file in Rhino3D.
 
