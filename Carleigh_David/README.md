@@ -1,5 +1,5 @@
 # Lucid
-![image](Carleigh_David/img.png)
+![image](/Carleigh_David/img.png)
 <p align="center">
     <p align="center">Project by Carleigh Cusick and David Warfel </p>
 </p>
