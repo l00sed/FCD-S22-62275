@@ -1,7 +1,7 @@
 # Lucid
 
 <p align="center">
-    ![renderedimage](Carleigh_David/birdeye.effectsResult.png)
+    <img src ="Carleigh_David/birdeye.effectsResult.png">
     <p align="center">Project by Carleigh Cusick and David Warfel </p>
 </p>
 
