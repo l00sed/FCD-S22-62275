@@ -10,7 +10,7 @@ This is an example project in the FCD S22 repo. It is meant to demonstrate the c
 
 - `.pdf` of M6 submission
 - additional `.gifs` or animated content
-- `FCD_V6.gh` script file
+- [FCD_V6.gh](/Carleigh_David/FCD_V6.gh) script file 
 - `.3dm` CAD model file
 - this `.md` README
 
@@ -23,5 +23,5 @@ This project uses a _Grasshopper_ script&mdash; which is a file that contains th
 The _Grasshopper_ script uses:
   - Lunchbox
 
-Install these dependencies and then open the `.gh` file in Rhino3D.
+Install these dependencies and then open the [FCD_V6.gh](/Carleigh_David/FCD_V6.gh) file in Rhino3D.
 
