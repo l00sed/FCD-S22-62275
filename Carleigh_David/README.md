@@ -1,7 +1,7 @@
 # Lucid
 
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/23065167/163903918-9d8c0cf8-3e32-4224-be9a-24e77a0e0f5f.png" />
+    ![renderedimage](Carleigh_David/birdeye.effectsResult.png)
     <p align="center">Project by Carleigh Cusick and David Warfel </p>
 </p>
 
