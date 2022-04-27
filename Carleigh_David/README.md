@@ -10,7 +10,7 @@ This is an example project in the FCD S22 repo. It is meant to demonstrate the c
 
 - `.pdf` of M6 submission
 - additional `.gifs` or animated content
-- `.gh` script file
+- `FCD_V6.gh` script file
 - `.3dm` CAD model file
 - this `.md` README
 
