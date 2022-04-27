@@ -11,7 +11,7 @@ This is an example project in the FCD S22 repo. It is meant to demonstrate the c
 - `.pdf` of M6 submission
 - additional `.gifs` or animated content
 - [FCD_V6.gh](/Carleigh_David/FCD_V6.gh) script file 
-- `.3dm` CAD model file
+- [FCD_V6.3dm](https://drive.google.com/drive/folders/1IkzBHXBOR2uFnrBsR8Qs0_MQXAey9vmy) CAD model file
 - this `.md` README
 
 ## Instructions for Use
