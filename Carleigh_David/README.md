@@ -1,7 +1,6 @@
 # Lucid
-
+![image](Carleigh_David/img.png)
 <p align="center">
-    <img src ="Carleigh_David/birdeye.effectsResult.png">
     <p align="center">Project by Carleigh Cusick and David Warfel </p>
 </p>
 
