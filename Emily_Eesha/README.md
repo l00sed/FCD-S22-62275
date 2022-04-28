@@ -10,14 +10,14 @@ This is an example project in the FCD S22 repo. It is meant to demonstrate the c
 **Contents**
 
 - `.pdf` of M6 submission
-- `.gifs` of assembly of pavillion
-- `.gh` script file
-- `.3dm` CAD model file
+- [`.gifs`](https://drive.google.com/file/d/1xtq6UDDhdwftuJCevF2du4K4EWiN7Viy/view?usp=sharing) of assembly of pavillion
+- [`.gh`](https://drive.google.com/file/d/1xRKs4cQALHKaU2EkoSQzO58Y2_immf2R/view?usp=sharing) script file
+- [`.3dm`](https://drive.google.com/file/d/1xGP8pP1VEcUayYtYQko_7h4uINvXKOhH/view?usp=sharing) CAD model file
 - this `.md` README
 
 ## Instructions for Use
 
-To model this project, Grasshoper, along with the aid of a few plug-ins is used. The file contains serveral parameters to adjust the size, shape, etc. of a space-frame design. Parameters used with in the script include the length ofthe triagnulared sections,To run the [`.3dm`](https://drive.google.com/file/d/1xGP8pP1VEcUayYtYQko_7h4uINvXKOhH/view?usp=sharing) file, you must have Rhino 7.
+To model this project, Grasshoper, along with the aid of a few plug-ins are used. When opened the first step to to cIt contains serveral parameters to adjust the size, shape, etc. of a space-frame design. To run the [`.3dm`](https://drive.google.com/file/d/1xGP8pP1VEcUayYtYQko_7h4uINvXKOhH/view?usp=sharing) file, you must have Rhino 7.
 
 **Dependencies**
 
