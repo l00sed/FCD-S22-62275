@@ -5,7 +5,7 @@
     <p align="center">Project Example by Teaching Assistant, Mitchell Foo</p>
 </p>
 
-This is an example project in the FCD S22 repo. It is meant to demonstrate the correct format and content expected for uploading materials. This area is used to reiterate the project description from my M6 submission. I could also describe the M6 prompt.
+This is an example project in the FCD S22 repo. It is meant to demonstrate the correct format and content expected for uploading materials. This area is used to reiterate the project description from my M6 submission. I could also describe the M6 prompt. 
 
 **Contents**
 
@@ -13,11 +13,13 @@ This is an example project in the FCD S22 repo. It is meant to demonstrate the c
 - [`.gifs`](https://drive.google.com/file/d/1xtq6UDDhdwftuJCevF2du4K4EWiN7Viy/view?usp=sharing) of assembly of pavillion
 - [`.gh`](https://drive.google.com/file/d/1xRKs4cQALHKaU2EkoSQzO58Y2_immf2R/view?usp=sharing) script file
 - [`.3dm`](https://drive.google.com/file/d/1xGP8pP1VEcUayYtYQko_7h4uINvXKOhH/view?usp=sharing) CAD model file
-- this `.md` README
+- this [`.md`](https://github.com/l00sed/FCD-S22-62275/tree/main/Emily_Eesha) README
 
 ## Instructions for Use
 
-To model this project, Grasshoper, along with the aid of a few plug-ins are used. When opened the first step to to cIt contains serveral parameters to adjust the size, shape, etc. of a space-frame design. To run the [`.3dm`](https://drive.google.com/file/d/1xGP8pP1VEcUayYtYQko_7h4uINvXKOhH/view?usp=sharing) file, you must have Rhino 7.
+To model this project, Grasshoper, along with the aid of a few plug-ins are used to model the pavillion. Serveral parameters within the Grasshopper program allow for the adjustment o fhte space-frame design, such as its shape, size, and thickness. The programs starts from a defined surface and then divides or triangulates; these divisions become the base geometries for the connections of the space-frame and the shading devices. 
+
+To run the [`.3dm`](https://drive.google.com/file/d/1xGP8pP1VEcUayYtYQko_7h4uINvXKOhH/view?usp=sharing) file, you must have Rhino 7.
 
 **Dependencies**
 
