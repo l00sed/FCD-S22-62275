@@ -18,7 +18,7 @@ This is an example project in the FCD S22 repo. It is meant to demonstrate the c
 
 ## Instructions for Use
 
-To model this project, Grasshoper, along with the aid of a few plug-ins are used to model the pavillion. Serveral parameters within the Grasshopper program allow for the adjustment o fhte space-frame design, such as its shape, size, and thickness. The main parameters are listed below...
+To model this project, Grasshoper, along with the aid of a few plug-ins are used to model the pavillion. Serveral parameters within the Grasshopper program allow for the adjustment og the space-frame design, such as its shape, size, and thickness. The main parameters are listed below...
 
   Min Division Length: smallest length of triMesh division (low value makes more divisions)
 
