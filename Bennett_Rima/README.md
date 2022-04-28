@@ -11,7 +11,7 @@ This project focuses on packaging and distributing an architectural project. Our
 
 - `.pdf` of M6 submission [finalProject FCD.pdf](/Bennett_Rima/finalProject FCD.pdf)
 - additional `.gifs` or animated content
-- `.gh` script file [finalProject FCD.gh](https://github.com/l00sed/FCD-S22-62275/blob/7446c73db992f4d47dac04fb6b0b9cce90a8e66c/Bennett_Rima/M4.gh)
+- [finalProject FCD.gh](https://github.com/l00sed/FCD-S22-62275/blob/7446c73db992f4d47dac04fb6b0b9cce90a8e66c/Bennett_Rima/M4.gh) script file
 - `.3dm` CAD model file
 - this `.md` README
 
