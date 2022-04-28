@@ -37,4 +37,5 @@ Install this dependency and then open the [FCD_M6.gh](/Carleigh_David/FCD_V6.gh)
 Once the desired outcome was reached in Grasshopper, the structure was baked into Rhino. The surrounding topography and context was constructed using 3D modeling tools, models from Sketchup, and google images. The space frame and panels were organized into layers to add materiality for rendering and simulations. 
 
 **Reference and Acknowledgements**
+
 3D model for College of Fine Arts context building from Sketchup Warehouse modeled by Nick D.
