@@ -25,5 +25,5 @@ The _Grasshopper_ script uses:
   - Lunchbox
   - Kangaroo
   - 
-Install these dependencies and then open the `.gh` file in Rhino3D. [.gh](https://drive.google.com/file/d/1xGP8pP1VEcUayYtYQko_7h4uINvXKOhH/view?usp=sharing)
+Install these dependencies and then open the [`.gh`](https://drive.google.com/file/d/1xGP8pP1VEcUayYtYQko_7h4uINvXKOhH/view?usp=sharing) file in Rhino3D. 
 
