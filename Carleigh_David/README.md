@@ -10,7 +10,7 @@
 
 **Contents**
 
-- [Lucid.pdf](/Carleigh_David/M6Lucid.pdf) of M6 submission
+- [Lucid.pdf](/Carleigh_David/M6_Lucid.pdf) of M6 submission
 - additional [Folder of Gifs](https://drive.google.com/drive/folders/15OfFYhpsMLj67I-ZToxW7TAEFUgf18a-) or animated content
 - [FCD_V6.gh](/Carleigh_David/FCD_V6.gh) script file 
 - [FCD_V6.3dm](https://drive.google.com/drive/folders/1IkzBHXBOR2uFnrBsR8Qs0_MQXAey9vmy) CAD model file
