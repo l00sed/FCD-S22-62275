@@ -1,7 +1,7 @@
 HoneyComb Pavillion
 
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/23065167/163903918-9d8c0cf8-3e32-4224-be9a-24e77a0e0f5f.png" />
+    <img src="https://github.com/l00sed/FCD-S22-62275/blob/99be9681e6ee27ffb82d1e80e0264804bc384c21/Bennett_Rima/renderlongview%20new.jpg" />
     <p align="center">Project Example by Teaching Assistant, Mitchell Foo</p>
 </p>
 
