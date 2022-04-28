@@ -6,6 +6,7 @@
 
 <p align="center">
     Render View 1
+    </p>
 
 ## Content
 
@@ -15,6 +16,7 @@
 
 <p align="center">
     Render View 2
+    </p>
 
 ### Construction 
 #### The pavilion is divided into two primary layers, the space frame and the panels. The space frame construction is simple: using 1 1⁄4” PVC pipes as connectors and laminated 5” x 5” x 3” wood blocksas joints to connect the PVC pipes. The blocks act as nodes and are placed in every vertice of the pavilion. The panels consist of a fabric material, which are then connected with hooks in each corner. These hooks are then drilled into the laminated block; this allows the fabric material to stretch and maintain its tensile strength. Finally, the two specific sized wooden panels are drilled into both ends of the pavilion, which functions as bench and table.
@@ -22,11 +24,13 @@
 
 <p align="center">
     Exploded Axon with Materiality
+    </p>
 
 ![construction gif](https://drive.google.com/uc?export=view&id=1eDI7qIHFeAyZbrBhLmiE7AyciStQqUNv)
 
 <p align="center">
     Construction Animation
+    </p>
 
 ### Solar Analysis  
 #### Another factor that drives our design is its responsiveness to the natural environment, specifically daylight. The orientation and sizing of the triangles are placed in a way that provides the most shade under the table by following the sun path. Through the qualitative sunlight analysis the table is shaded 80 percent throughout the day; this is so that people working on the table do not get negatively affected by over brightness and glare.
@@ -34,6 +38,7 @@
 
 <p align="center">
     Solar Analysis from 6 am to 6 pm
+    </p>
 
 ### M6 Submission PDF
 [M6 PDF](https://drive.google.com/file/d/1t8oWB4yzaB-9wLoxtgXZpH2Z2CQ9pr63/view)
@@ -43,6 +48,7 @@
 
 <p align="center">
     Rhino Screenshot
+    </p>
 
 [Rhino File](https://drive.google.com/file/d/1fTXAzxtsrYGAvHzemA9Rs3rHZGL4t_rh/view)
 
@@ -52,6 +58,7 @@ hot](https://drive.google.com/uc?export=view&id=1sxETRtWPyMQp0rBM49j1Z0yafUlLn6F
 
 <p align="center">
     Grasshopper Screenshot
+    </p>
 
 [Grass Hopper File](https://drive.google.com/file/d/1bgDv1DpN0tMLyD41FO7MJ0eLe6BxFBlu/view)
 
@@ -62,3 +69,4 @@ hot](https://drive.google.com/uc?export=view&id=1sxETRtWPyMQp0rBM49j1Z0yafUlLn6F
 * #### The offset distance - determines the size of the panels and the length of the box to panel connectors;
 * #### The pipe radius - determines the size of the space frame pipes and the size of the panel to box connectors 
 #### The Grasshopper script includes no dependencies and can be opened on Rhino 6 and 7. To use, download the .gh file from the link provided; then open it in Rhino3D. 
+
