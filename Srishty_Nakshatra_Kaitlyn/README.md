@@ -19,7 +19,7 @@
 **Parameters to Change**
 
 * Input brep - the base geometry where the overall form of the structure is derived from and what the space fram and panels are based on.   
-*Rows - The number of rows that are in the space frame chages based on the U direction. 
+* Rows - The number of rows that are in the space frame chages based on the U direction. 
 
 * Columns - The number of columns that are in the space frame changes based on the V direction. 
 
