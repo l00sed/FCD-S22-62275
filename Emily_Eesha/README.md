@@ -5,9 +5,7 @@
     <p align="center">Location: In the South-West corner of the field in front of CFA. </p>
 </p>
 
-In response to the need for 
-This is an example project in the FCD S22 repo. It is meant to demonstrate the correct format and content expected for uploading materials. This area is used to reiterate the project description from my M6 submission. I could also describe the M6 prompt. 
-
+Given the site that we chose (shown in the image on the right), which is nestled in between Hunt Library and CFA, we were tasked with finding the purpose fore area that no longer has a large tree. We chose to create a space that offers connections to the ground while also growing from the ground. By using an undulating curve that draws viewers eye up, to the seating oppurtunities, the shaded spaces and the felxible zones for play under and over the curves the site is activated. The nature of the space frame and shaded devices allow for the sun to shine into shaded spaces at certain times of the day through the cut outs, however it is filtered and in specific zones that ensure that it is not to harsh. Within the space frame, there are LEDS that turn on at night and allow the structure to remain useable for people to come and study, lounge, meet up with friends and for children to continue playing on. There are also spaces for plantings in the niches that touch the ground. Overall, the structure reactivates the space to create a more useful zone for the CMU community to engage with as well. 
 **Contents**
 
 - `.pdf` of M6 submission
