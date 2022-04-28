@@ -38,3 +38,15 @@ The grasshopper script works by taking a base form and taking a base form and cr
 **References** 
 
 The orginal images for context buildings (CMU College of Fine Arts and Hunt Library) came from google images and edited in Photoshop. 
+
+The Grasshopper script included the add on LunchBox. 
+
+
+
+**3D Assets and Organization**
+
+The grasshopper script works by taking a base form and taking a base form and creating a space frame. The space frame was created by by using the diamond panels component and the multipipe component in grasshopper. (Note: Multipipe is ony available in Rhino 7 and above). 
+
+**References** 
+
+The orginal images for context buildings (CMU College of Fine Arts and Hunt Library) came from google images and edited in Photoshop. 

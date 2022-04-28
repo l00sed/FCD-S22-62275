@@ -1,5 +1,5 @@
 # Σκηνή
-![image](/Aidan_Henry/Render_1.jpg)
+![image](./Render_1.jpg)
 
 <p align="center">
     <p align="center">Pavillion Render</p>

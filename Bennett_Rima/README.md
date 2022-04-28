@@ -1,30 +1,30 @@
-# Example Project
+## HoneyComb Pavillion
 
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/23065167/163903918-9d8c0cf8-3e32-4224-be9a-24e77a0e0f5f.png" />
-    <p align="center">Project Example by Teaching Assistant, Mitchell Foo</p>
+    <img src="./renderlongview_new.jpg" />
+    <p align="center">Project by Rima Sachdeva, Bennett Goeke</p>
 </p>
 
-This is an example project in the FCD S22 repo. It is meant to demonstrate the correct format and content expected for uploading materials. This area is used to reiterate the project description from my M6 submission. I could also describe the M6 prompt.
+This project focuses on packaging and distributing an architectural project. Our pavilion resembles a natural, organic structure that fits nicely within our project’s site. We decided to locate our project on the south side of the College of Fine Arts building inside the peace garden. Our programmatic criteria revolves around the collection of water for reuse and also used for evaporation cooling, and controlling the sun rays to provide optimal shade and protection on the pre-existing seating areas within the site. Our honeycomb type design involves a sense of randomness that allows for three types of panels: panels which are closed, blocking sun and directing water to the base; panels that are closed while still having space for water to sit, allowing for evaporative cooling and plantable space; and open panels that have a certain depth to them, blocking light at specific times of the day.
 
 **Contents**
 
-- `.pdf` of M6 submission
-- additional `.gifs` or animated content
-- `.gh` script file
-- `.3dm` CAD model file
-- this `.md` README
+- [`.pdf`](https://github.com/l00sed/FCD-S22-62275/blob/2046cf3c223f562e852c9544a2da56de2d28baf7/Bennett_Rima/finalProject%20FCD.pdf) of M6 submission
+- animated pavillion assembly [`.gif`](https://github.com/l00sed/FCD-S22-62275/blob/a835deef3e50156a9fe5b5d5193b889cbc946336/Bennett_Rima/ezgif.com-gif-maker%20(1).gif)
+- animated sun simulation [`.gif`](https://github.com/l00sed/FCD-S22-62275/blob/b03cec132e5d8da93a2983b753c89da7f3b59bbf/Bennett_Rima/Webp.net-gifmaker%20(3).gif)
+- [`.gh`](https://github.com/l00sed/FCD-S22-62275/blob/7446c73db992f4d47dac04fb6b0b9cce90a8e66c/Bennett_Rima/M4.gh) script file
+- [`.3dm`](https://github.com/l00sed/FCD-S22-62275/blob/94864b6f52ce13ef53bb72f6d21edb9918e4843d/Bennett_Rima/FINAL%20DEISGN.3dm) CAD model file
+- this [`.md`](https://github.com/l00sed/FCD-S22-62275/blob/273c46480f19abadf2f05a86428db2a702ee32cd/Bennett_Rima/README.md) README
 
 ## Instructions for Use
 
-This project uses a _Grasshopper_ script&mdash; which is a file that contains the algorithm to generatively design our spaceframe. You must have Rhino X to open the `.3dm` file.
+This project uses a _Grasshopper_ script&mdash; which is a file that contains the algorithm to generatively design our spaceframe. You must have Rhino 7 to open the `.3dm` file.
 
 **Dependencies**
 
 The _Grasshopper_ script uses:
   - Lunchbox
   - Ladybug
-  - Pufferfish
 
 Install these dependencies and then open the `.gh` file in Rhino3D.
 
