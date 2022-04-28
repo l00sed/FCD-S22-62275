@@ -17,7 +17,7 @@ This project focuses on packaging and distributing an architectural project. Our
 
 ## Instructions for Use
 
-This project uses a _Grasshopper_ script&mdash; which is a file that contains the algorithm to generatively design our spaceframe. You must have Rhino X to open the `.3dm` file.
+This project uses a _Grasshopper_ script&mdash; which is a file that contains the algorithm to generatively design our spaceframe. You must have Rhino 7 to open the `.3dm` file.
 
 **Dependencies**
 
