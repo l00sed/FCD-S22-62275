@@ -1,30 +1,40 @@
-# Example Project
+# Diamond Parametric 
 
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/23065167/163903918-9d8c0cf8-3e32-4224-be9a-24e77a0e0f5f.png" />
-    <p align="center">Project Example by Teaching Assistant, Mitchell Foo</p>
+    <img src="https://raw.githubusercontent.com/nmenon005/BhavsarMenonHomM6/main/fcd4renderview1.jpg" />
 </p>
 
-This is an example project in the FCD S22 repo. It is meant to demonstrate the correct format and content expected for uploading materials. This area is used to reiterate the project description from my M6 submission. I could also describe the M6 prompt.
+###### The Diamond Parametric structure is located on the front lawn of CFA. The structure is meant to be a zone of relaxation and shade from the sunlight. During hot summer days, students may find themselves laying under the structure after a long day of stressful work. Though the structure provides vast amounts of shade, it’s most appearant feature is spotlightof sunlight that shines through the structure. This spotlight is created by the open panels concentrated on the facade. 
 
-**Contents**
+**Content** 
 
-- `.pdf` of M6 submission
-- additional `.gifs` or animated content
-- `.gh` script file
-- `.3dm` CAD model file
-- this `.md` README
+[The GIF](https://drive.google.com/file/d/1QAdq-9esMrT-bePc5J-s4v1IA4N8WTb5/view?usp=sharing) - shows the assembly of the nodes. 
+ 
+[Rhino file](https://drive.google.com/file/d/1xbqSAOVQW1j8a9ieal82zGQHMOWOmGtv/view?usp=sharing) - contains the geometry of the pavilion and final result from the grasshopper script. 
+ 
+[Grasshopper File](https://drive.google.com/file/d/1Rg-0ocuyb4OfsNolPBylRTsa6LMPeFDA/view?usp=sharing) - generates the space frame and the panels that go inbetween. 
+ 
+[PDF](https://drive.google.com/file/d/1SIb6xAm_3C6eQBihXDwRzzn65J4NFqgp/view?usp=sharing) - collation of space frame, renderings, nodes
 
-## Instructions for Use
+**Parameters to Change**
 
-This project uses a _Grasshopper_ script&mdash; which is a file that contains the algorithm to generatively design our spaceframe. You must have Rhino X to open the `.3dm` file.
+* Input brep - the base geometry where the overall form of the structure is derived from and what the space fram and panels are based on.   
+*Rows - The number of rows that are in the space frame chages based on the U direction. 
 
-**Dependencies**
+* Columns - The number of columns that are in the space frame changes based on the V direction. 
 
-The _Grasshopper_ script uses:
-  - Lunchbox
-  - Ladybug
-  - Pufferfish
+* Pipe Thickness - Determines the thickness of the pipes which form the space frame. 
 
-Install these dependencies and then open the `.gh` file in Rhino3D.
+**Script Dependencies**
 
+The Grasshopper script included the add on LunchBox. 
+
+
+
+**3D Assets and Organization**
+
+The grasshopper script works by taking a base form and taking a base form and creating a space frame. The space frame was created by by using the diamond panels component and the multipipe component in grasshopper. (Note: Multipipe is ony available in Rhino 7 and above). 
+
+**References** 
+
+The orginal images for context buildings (CMU College of Fine Arts and Hunt Library) came from google images and edited in Photoshop. 
