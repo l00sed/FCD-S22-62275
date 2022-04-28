@@ -5,7 +5,7 @@
     <p align="center">Project by Rima Sachdeva, Bennett Goeke</p>
 </p>
 
-This is an example project in the FCD S22 repo. It is meant to demonstrate the correct format and content expected for uploading materials. This area is used to reiterate the project description from my M6 submission. I could also describe the M6 prompt.
+This project focuses on packaging and distributing an architectural project. The purpose of computation pushes past design and embodies a higher importance in contemporary practice. Many architects still produce drawings but they are often generated from digital models, ones that contain spatial information about how the system is assembled and its particular dimensions. Nowadays they may also contain building data such as HVAC distributions, electrical loads or paths of egress. Module 6 will focus on gathering and organizing this digital information for sharing, discussion and continued advancement.
 
 **Contents**
 
@@ -24,7 +24,6 @@ This project uses a _Grasshopper_ script&mdash; which is a file that contains th
 The _Grasshopper_ script uses:
   - Lunchbox
   - Ladybug
-  - Pufferfish
 
 Install these dependencies and then open the `.gh` file in Rhino3D.
 
