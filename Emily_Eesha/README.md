@@ -1,8 +1,7 @@
 # Pockets Full of Sunshine
 
 <p align="center">
-    ![render !](https://user-images.githubusercontent.com/104486299/165774080-50206233-4173-442e-b82d-61eb38ba2776.jpg)
-    <img src="https://drive.google.com/file/d/1191KZFLMOcBO0vVKlOOSCHTrAXY-zjHn/view?usp=sharing" />
+    <img src="https://user-images.githubusercontent.com/104486299/165774080-50206233-4173-442e-b82d-61eb38ba2776.jpg" />
     <p align="center">Location: In the South-West corner of the field in front of CFA. </p>
 </p>
 
