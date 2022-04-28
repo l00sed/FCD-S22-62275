@@ -1,7 +1,7 @@
 # SUN PAVILION
 
 <p align="center">
-    <img src="file:///C:/Users/brion/Downloads/Exterior%20Rendering.png" />
+    <img src="![0](https://user-images.githubusercontent.com/104550134/165685498-e2d14d34-16ad-4756-92d0-4ddc4d66d94a.png)" />
     <p align="center">Project Example by Teaching Assistant, Mitchell Foo</p>
 </p>
 
