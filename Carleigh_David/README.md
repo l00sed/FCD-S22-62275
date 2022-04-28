@@ -14,7 +14,7 @@
 - additional [Folder of Gifs](https://drive.google.com/drive/folders/15OfFYhpsMLj67I-ZToxW7TAEFUgf18a-) or animated content
 - [FCD_M6.gh](/Carleigh_David/FCD_V6.gh) script file 
 - [FCD_M6.3dm](https://drive.google.com/drive/folders/1IkzBHXBOR2uFnrBsR8Qs0_MQXAey9vmy) CAD model File
-- this `.md` README File
+- this [Text](/Carleigh_David/README.md) README File
 
 ## Instructions for Use
 
