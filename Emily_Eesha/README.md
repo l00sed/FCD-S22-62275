@@ -17,13 +17,13 @@ This is an example project in the FCD S22 repo. It is meant to demonstrate the c
 
 ## Instructions for Use
 
-This project uses a _Grasshopper_ script&mdash; which is a file that contains the algorithm to generatively design our spaceframe. To run the `.3dm` file, you must have Rhino 7.
+To model this project, Grasshoper, along with the aid of a few plug-ins is used. The file contains serveral parameters to adjust the size, shape, etc. of a space-frame design. Parameters used with in the script include the length ofthe triagnulared sections,To run the [`.3dm`](https://drive.google.com/file/d/1xGP8pP1VEcUayYtYQko_7h4uINvXKOhH/view?usp=sharing) file, you must have Rhino 7.
 
 **Dependencies**
 
 The _Grasshopper_ script uses:
   - Lunchbox
   - Kangaroo
-  - 
-Install these dependencies and then open the [`.gh`](https://drive.google.com/file/d/1xGP8pP1VEcUayYtYQko_7h4uINvXKOhH/view?usp=sharing) file in Rhino3D. 
+ 
+Install these dependencies and then open the [`.gh`](https://drive.google.com/file/d/1xRKs4cQALHKaU2EkoSQzO58Y2_immf2R/view?usp=sharing) file in Rhino3D. 
 
