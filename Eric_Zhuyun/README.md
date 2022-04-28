@@ -20,7 +20,10 @@ In this case, we choose to represent our design through detailed diagrams and di
 ## Toolpath
 ![Eric   Elaine_FCD_M6 toolpath diagram](https://user-images.githubusercontent.com/104148009/165726811-4932cc29-b304-491b-a633-d01ac0a153a6.jpg)
 ## Instructions for Use
+![grasshopper script screenshot](https://user-images.githubusercontent.com/104148009/165729273-3455d3a3-3ea6-482d-bc95-df012adb9696.png)
+![Eric- -Elaine_FCD_M4_animation](https://user-images.githubusercontent.com/104148009/165729525-1dd3bdac-af60-4623-8af9-03a28cae22e2.gif)
 
+In this project, we explore generating a space truss structure using surfaces created by using sine grahic mapper, it is interesting to see how we can manipulate surface throught tweaking sine graphs and scaling them to show different layers of the structure, also a sun sensitive glass panel design is proposed to investigate how the structure perform as it reacts to the sun.
 This project uses a <a href="https://drive.google.com/file/d/1Xx-BAiJOEaJtxtih9Y5A21Z39kpJK6yz/view?usp=sharing">Grasshopper</a> script&mdash; which is a file that contains the algorithm to generatively design our spaceframe. You must have Rhino 6 or 7 to open the <a href="https://drive.google.com/file/d/1bM4RsLYVoZxPGBMB9QUbIUNgtJYaGrF9/view?usp=sharing"> rhino 6&7 file</a> file.
 
 **Dependencies**
