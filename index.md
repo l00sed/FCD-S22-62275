@@ -23,27 +23,33 @@ This is a final exercise in computational design to understand contemporary mode
 
 ## Student Projects
 
-[Adrienne_Ashley](./Adrienne_Ashley/README.md)<br/>
-[Aidan_Henry](./Aidan_Henry/README.md)<br/>
-[Anqi_Alexandra](./Anqi_Alexandra/README.md)<br/>
-[Bennett_Rima](./Bennett_Rima/README.md)<br/>
-[Carleigh_David](./Carleigh_David/README.md)<br/>
-[Emily_Eesha](./Emily_Eesha/README.md)<br/>
-[Eric_Zhuyun](./Eric_Zhuyun/README.md)<br/>
-[Grace_Brody](./Grace_Brody/README.md)<br/>
-[I_Lok_Jacky](./I_Lok_Jacky/README.md)<br/>
-[Jamie_Alexia](./Jamie_Alexia/README.md)<br/>
-[Jeffrey_Andrea](./Jeffrey_Andrea/README.md)<br/>
-[Michael_Xuze](./Michael_Xuze/README.md)<br/>
-[Neha_Oscar_Akanksha](./Neha_Oscar_Akanksha/README.md)<br/>
-[Nicholas_Aditya](./Nicholas_Aditya/README.md)<br/>
-[Olive_Jaden](./Olive_Jaden/README.md)<br/>
-[Srishty_Nakshatra_Kaitlyn](./Srishty_Nakshatra_Kaitlyn/README.md)<br/>
-[Suzie_Jackie](./Suzie_Jackie/README.md)<br/>
-[Tewei_Andrew](./Tewei_Andrew/README.md)<br/>
-[Vanshika_Graham](./Vanshika_Graham/README.md)<br/>
-[Victor_Norman](./Victor_Norman/README.md)<br/>
-[Violet_Gloria_Sonia](./Violet_Gloria_Sonia/README.md)<br/>
-[Zihan_Tianshu](./Zihan_Tianshu/README.md)<br/>
-[Example Group](./FirstName_FirstName/README.md)
+<div style="display:flex;flex-direction:row;">
+    <div style="display:flex;flex-direction:column;width:50%;">
+        <a href="./Adrienne_Ashley/">Adrienne_Ashley</a>
+        <a href="./Aidan_Henry/">Aidan_Henry</a>
+        <a href="./Anqi_Alexandra/">Anqi_Alexandra</a>
+        <a href="./Bennett_Rima/">Bennett_Rima</a>
+        <a href="./Carleigh_David/">Carleigh_David</a>
+        <a href="./Emily_Eesha/">Emily_Eesha</a>
+        <a href="./Eric_Zhuyun/">Eric_Zhuyun</a>
+        <a href="./Grace_Brody/">Grace_Brody</a>
+        <a href="./I_Lok_Jacky/">I_Lok_Jacky</a>
+        <a href="./Jamie_Alexia/">Jamie_Alexia</a>
+        <a href="./Jeffrey_Andrea/">Jeffrey_Andrea</a>
+    </div>
+    <div style="display:flex;flex-direction:column;width:50%;">
+        <a href="./Michael_Xuze/">Michael_Xuze</a>
+        <a href="./Neha_Oscar_Akanksha/">Neha_Oscar_Akanksha</a>
+        <a href="./Nicholas_Aditya/">Nicholas_Aditya</a>
+        <a href="./Olive_Jaden/">Olive_Jaden</a>
+        <a href="./Srishty_Nakshatra_Kaitlyn/">Srishty_Nakshatra_Kaitlyn</a>
+        <a href="./Suzie_Jackie/">Suzie_Jackie</a>
+        <a href="./Tewei_Andrew/">Tewei_Andrew</a>
+        <a href="./Vanshika_Graham/">Vanshika_Graham</a>
+        <a href="./Victor_Norman/">Victor_Norman</a>
+        <a href="./Violet_Gloria_Sonia/">Violet_Gloria_Sonia</a>
+        <a href="./Zihan_Tianshu/">Zihan_Tianshu</a>
+        <a href="./FirstName_Firstname/">Example_Group</a>
+    </div>
+</div>
 
