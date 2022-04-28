@@ -9,15 +9,19 @@ we investigated opportunities of facade panels reacting according to their dista
 **Contents**
 
 - `.pdf` M6 Exhibition posts
-- ![Eric- -Elaine_FCD_M4_animation](https://user-images.githubusercontent.com/104148009/165725874-6d58d39b-3d43-4aa1-ab51-3b5759560fb4.gif) Sunlight reaction performance animation
-- ![Eric- -Elaine_FCD_M5_assembly-animation](https://user-images.githubusercontent.com/104148009/165726085-f0e3a3f6-d4e0-423c-b095-660761cab277.gif) Assembly animation
-- `.gh` script file
-- `.3dm` CAD model file
-- this `.md` README
-
+- <a href="https://drive.google.com/file/d/1-wFmPMbLkCiR11nyrI5JIQAiecHW_30T/view?usp=sharing"> performance animation</a>
+- <a href="https://drive.google.com/file/d/1-wFmPMbLkCiR11nyrI5JIQAiecHW_30T/view?usp=sharing"> Assembly animation</a>
+- <a href="https://drive.google.com/file/d/1Xx-BAiJOEaJtxtih9Y5A21Z39kpJK6yz/view?usp=sharing"> grasshopper file</a>
+- <a href="https://drive.google.com/file/d/1bM4RsLYVoZxPGBMB9QUbIUNgtJYaGrF9/view?usp=sharing"> rhino 6&7 file</a>
+## Fabrication
+![1](https://user-images.githubusercontent.com/104148009/165726490-4ae22ad6-3400-416e-ac90-02b02c2b75da.png)
+![2](https://user-images.githubusercontent.com/104148009/165726504-8886f6dd-ba6e-4440-a442-bd586d2d6383.png)
+In this case, we choose to represent our design through detailed diagrams and digital fabrication with CNC machine. For our digital fabrication, we choose a typical node from our space frame which consist of two perpendicular steel bars and two slanted steel bars at a 15 degree angle. 
+## Toolpath
+![Eric   Elaine_FCD_M6 toolpath diagram](https://user-images.githubusercontent.com/104148009/165726811-4932cc29-b304-491b-a633-d01ac0a153a6.jpg)
 ## Instructions for Use
 
-This project uses a _Grasshopper_ script&mdash; which is a file that contains the algorithm to generatively design our spaceframe. You must have Rhino X to open the `.3dm` file.
+This project uses a [_Grasshopper]_ script&mdash; which is a file that contains the algorithm to generatively design our spaceframe. You must have Rhino X to open the `.3dm` file.
 
 **Dependencies**
 
