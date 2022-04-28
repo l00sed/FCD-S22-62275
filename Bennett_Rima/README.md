@@ -9,7 +9,7 @@ This project focuses on packaging and distributing an architectural project. Our
 
 **Contents**
 
-- `.pdf` of M6 submission
+- `.pdf` of M6 submission[Σκηνή.pdf](/Aidan_Henry/apsmith_hvonrint_M6 FINAL.pdf)
 - additional `.gifs` or animated content
 - `.gh` script file
 - `.3dm` CAD model file
