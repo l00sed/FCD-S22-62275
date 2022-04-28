@@ -1,4 +1,5 @@
 HoneyComb Pavillion
+## HoneyComb Pavillion
 
 <p align="center">
     <img src="https://github.com/l00sed/FCD-S22-62275/blob/99be9681e6ee27ffb82d1e80e0264804bc384c21/Bennett_Rima/renderlongview%20new.jpg" />
