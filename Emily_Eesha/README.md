@@ -25,6 +25,5 @@ The _Grasshopper_ script uses:
   - Lunchbox
   - Kangaroo
   - 
-Install these dependencies and then open the `.gh` file in Rhino3D. 
-[tester](https://www.google.com/search?q=how+to+make+rhino+file+smaller&rlz=1C1CHBF_enUS919US919&oq=how+to+make+rhino+file+smaller&aqs=chrome..69i57j0i390l4.13157j0j4&sourceid=chrome&ie=UTF-8)
+Install these dependencies and then open the `.gh` file in Rhino3D. [.gh](https://drive.google.com/file/d/1xGP8pP1VEcUayYtYQko_7h4uINvXKOhH/view?usp=sharing)
 
