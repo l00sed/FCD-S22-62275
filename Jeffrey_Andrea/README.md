@@ -27,9 +27,20 @@ The Grasshopper script works by taking in a base form (as surface or polysurface
 
 The Grasshopper script uses the following plugins:
 
-- Pufferfish | ver: 3.0.0.0
-- Weaverbird | ver: 0.9.0.1
-- Kangaroo2 Components | ver: 2.5.3
+<table>
+  <tr>
+    <td style="text-align:left;">Pufferfish</td>
+    <td style="text-align:right;">ver: 3.0.0.0</td>
+  </tr>
+  <tr>
+    <td style="text-align:left;">Weaverbird</td>
+    <td style="text-align:right;">ver: 0.9.0.1</td>
+  </tr>
+  <tr>
+    <td style="text-align:left;">Kangaroo2 Components</td>
+    <td style="text-align:right;">ver: 2.5.3</td>
+  </tr>
+</table>
 
 It also uses multipipe (a subd) which is only available in Rhino 7 and above. For rendering, the planting also made use of Lands Design.
 
