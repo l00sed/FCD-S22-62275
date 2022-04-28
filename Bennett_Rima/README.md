@@ -5,7 +5,7 @@
     <p align="center">Project by Rima Sachdeva, Bennett Goeke</p>
 </p>
 
-This project focuses on packaging and distributing an architectural project. The purpose of computation pushes past design and embodies a higher importance in contemporary practice. Many architects still produce drawings but they are often generated from digital models, ones that contain spatial information about how the system is assembled and its particular dimensions. Nowadays they may also contain building data such as HVAC distributions, electrical loads or paths of egress. Module 6 will focus on gathering and organizing this digital information for sharing, discussion and continued advancement.
+This project focuses on packaging and distributing an architectural project. Our pavilion resembles a natural, organic structure that fits nicely within our project’s site. We decided to locate our project on the south side of the College of Fine Arts building inside the peace garden. Our programmatic criteria revolves around the collection of water for reuse and also used for evaporation cooling, and controlling the sun rays to provide optimal shade and protection on the pre-existing seating areas within the site. Our honeycomb type design involves a sense of randomness that allows for three types of panels: panels which are closed, blocking sun and directing water to the base; panels that are closed while still having space for water to sit, allowing for evaporative cooling and possibly become plantable space; and open panels that have a certain depth to them, blocking light at certain portions of the day.
 
 **Contents**
 
