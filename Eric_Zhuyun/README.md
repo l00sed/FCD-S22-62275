@@ -8,7 +8,7 @@ we investigated opportunities of facade panels reacting according to their dista
 
 **Contents**
 
-- `.pdf` M6 Exhibition posts
+- <a href="https://drive.google.com/file/d/1R5JfQKChFIofEnlH2bEXQ2dlLqoi-2Jz/view?usp=sharing"> M6 Exhibition posts
 - <a href="https://drive.google.com/file/d/1-wFmPMbLkCiR11nyrI5JIQAiecHW_30T/view?usp=sharing"> performance animation</a>
 - <a href="https://drive.google.com/file/d/1-wFmPMbLkCiR11nyrI5JIQAiecHW_30T/view?usp=sharing"> Assembly animation</a>
 - <a href="https://drive.google.com/file/d/1Xx-BAiJOEaJtxtih9Y5A21Z39kpJK6yz/view?usp=sharing"> grasshopper file</a>
