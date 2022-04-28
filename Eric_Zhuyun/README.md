@@ -21,7 +21,7 @@ In this case, we choose to represent our design through detailed diagrams and di
 ![Eric   Elaine_FCD_M6 toolpath diagram](https://user-images.githubusercontent.com/104148009/165726811-4932cc29-b304-491b-a633-d01ac0a153a6.jpg)
 ## Instructions for Use
 
-This project uses a [_Grasshopper]_ script&mdash; which is a file that contains the algorithm to generatively design our spaceframe. You must have Rhino X to open the `.3dm` file.
+This project uses a <a href="https://drive.google.com/file/d/1Xx-BAiJOEaJtxtih9Y5A21Z39kpJK6yz/view?usp=sharing">Grasshopper</a> script&mdash; which is a file that contains the algorithm to generatively design our spaceframe. You must have Rhino 6 or 7 to open the <a href="https://drive.google.com/file/d/1bM4RsLYVoZxPGBMB9QUbIUNgtJYaGrF9/view?usp=sharing"> rhino 6&7 file</a> file.
 
 **Dependencies**
 
@@ -30,5 +30,5 @@ The _Grasshopper_ script uses:
   - Ladybug
   - Pufferfish
 
-Install these dependencies and then open the `.gh` file in Rhino3D.
+Install these dependencies and then open the <a href="https://drive.google.com/file/d/1Xx-BAiJOEaJtxtih9Y5A21Z39kpJK6yz/view?usp=sharing"> grasshopper file</a> file in Rhino3D.
 
