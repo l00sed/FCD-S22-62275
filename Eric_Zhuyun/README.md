@@ -1,7 +1,8 @@
-# Example Project
+# STORMEYE
+by Eric Feng & Elaine Jin
 
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/23065167/163903918-9d8c0cf8-3e32-4224-be9a-24e77a0e0f5f.png" />
+    <https://drive.google.com/file/d/1gVr19ObaqV4Q5wyw6g2cxmkJmj-wd5fR/view?usp=sharing />
     <p align="center">Project Example by Teaching Assistant, Mitchell Foo</p>
 </p>
 
@@ -9,8 +10,8 @@ This is an example project in the FCD S22 repo. It is meant to demonstrate the c
 
 **Contents**
 
-- `.pdf` of M6 submission
-- additional `.gifs` or animated content
+- `.pdf` M6 Exhibition posts
+- `.gifs` or animated content
 - `.gh` script file
 - `.3dm` CAD model file
 - this `.md` README
