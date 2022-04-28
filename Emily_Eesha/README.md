@@ -21,19 +21,19 @@ To model this project, Grasshoper, along with the aid of a few plug-ins are used
 
 The programs starts from a defined surface and then divides or triangulates; these divisions become the base geometries for the connections of the space-frame and the shading devices. 
 
-Min Division Length: smallest length of triMesh division (low value makes more divisions)
+    Min Division Length: smallest length of triMesh division (low value makes more divisions)
 
-Vert Factor: verticle displacement factor of brep
+    Vert Factor: verticle displacement factor of brep
 
-Member Thickness: thickness of each beam in the space-frame
+    Member Thickness: thickness of each beam in the space-frame
 
-Index: reference to a surface 
+    Index: reference to a surface 
 
-Radius Top: the radius of the top circular opening of the shading device
+    Radius Top: the radius of the top circular opening of the shading device
 
-Radius Bottom: the radius of the bottom circular opening of the shading device
+    Radius Bottom: the radius of the bottom circular opening of the shading device
 
-To run the [`.3dm`](https://drive.google.com/file/d/1xGP8pP1VEcUayYtYQko_7h4uINvXKOhH/view?usp=sharing) file, you must have Rhino 7.
+    To run the [`.3dm`](https://drive.google.com/file/d/1xGP8pP1VEcUayYtYQko_7h4uINvXKOhH/view?usp=sharing) file, you must have Rhino 7.
 
 **Dependencies**
 
