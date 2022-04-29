@@ -1,7 +1,7 @@
 # Blooming Hexagon
 
 <p align="center">
-    ![ViewCapture20220331_065802-1](https://user-images.githubusercontent.com/23065167/165948794-c5dec9cd-6356-4c28-b337-23d4728fea47.png)
+    <img src="https://user-images.githubusercontent.com/23065167/165948794-c5dec9cd-6356-4c28-b337-23d4728fea47.png" />
     <p align="center">Relaxing under the sun on a sunny day</p>
 </p>
 
