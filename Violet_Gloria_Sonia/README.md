@@ -1,7 +1,7 @@
 # Blooming Hexagon
 
 <p align="center">
-    <iframe src="https://drive.google.com/file/d/1zCfxB3DIUu-01Czu-EGGh5_WnZgBczhd/preview" width="100%" height="360" autoplay="true"></iframe>
+    ![ViewCapture20220331_065802-1](https://user-images.githubusercontent.com/23065167/165948794-c5dec9cd-6356-4c28-b337-23d4728fea47.png)
     <p align="center">Relaxing under the sun on a sunny day</p>
 </p>
 
