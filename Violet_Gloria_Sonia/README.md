@@ -1,7 +1,7 @@
 # Blooming Hexagon
 
 <p align="center">
-    <img src="https://drive.google.com/file/d/1zCfxB3DIUu-01Czu-EGGh5_WnZgBczhd/view?usp=sharing" />
+    <iframe src="https://drive.google.com/file/d/1zCfxB3DIUu-01Czu-EGGh5_WnZgBczhd/preview" width="100%" height="360" autoplay="true"></iframe>
     <p align="center">Relaxing under the sun on a sunny day</p>
 </p>
 
@@ -27,8 +27,6 @@ The _Grasshopper_ script uses:
   - Lunchbox
   - Pufferfish
   - Ladybug
-  - Ladybug
-  - Pufferfish
 
 Install these dependencies and then open the `.gh` file in Rhino3D.
 
