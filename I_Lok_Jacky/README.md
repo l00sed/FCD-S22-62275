@@ -23,6 +23,7 @@ Trilateral Twists primarily uses the manipulation of triangles to serve programm
 ### Construction 
 
 The pavilion is divided into two primary layers, the space frame and the panels. The space frame construction is simple: using 1 1⁄4” PVC pipes as connectors and laminated 5” x 5” x 3” wood blocksas joints to connect the PVC pipes. The blocks act as nodes and are placed in every vertice of the pavilion. The panels consist of a fabric material, which are then connected with hooks in each corner. These hooks are then drilled into the laminated block; this allows the fabric material to stretch and maintain its tensile strength. Finally, the two specific sized wooden panels are drilled into both ends of the pavilion, which functions as bench and table.
+
 ![render2](https://drive.google.com/uc?export=view&id=1ilSy4F35Aa1CZKdqU0wHE_XzVeME6gTg)
 
 <p align="center">Exploded Axon with Materiality</p>
@@ -34,21 +35,25 @@ The pavilion is divided into two primary layers, the space frame and the panels.
 ### Solar Analysis
 
 Another factor that drives our design is its responsiveness to the natural environment, specifically daylight. The orientation and sizing of the triangles are placed in a way that provides the most shade under the table by following the sun path. Through the qualitative sunlight analysis the table is shaded 80 percent throughout the day; this is so that people working on the table do not get negatively affected by over brightness and glare.
+
 ![render2](https://drive.google.com/uc?export=view&id=17LwyXWO_RkMzTQByaPNMaYIFQOWgXnhw)
 
 <p align="center">Solar Analysis from 6 am to 6 pm</p>
 
 ### M6 Submission PDF
+
 [M6 PDF](https://drive.google.com/file/d/1t8oWB4yzaB-9wLoxtgXZpH2Z2CQ9pr63/view)
 
-### Rhino File 
+### Rhino File
+
 ![Rhino Screenshot](https://drive.google.com/uc?export=view&id=1N7dqVrzaBMISD_wPIGqQLB7oLZR-YiKT)
 
 <p align="center">Rhino Screenshot</p>
 
 [Rhino File](https://drive.google.com/file/d/1fTXAzxtsrYGAvHzemA9Rs3rHZGL4t_rh/view)
 
-### Grasshopper File 
+### Grasshopper File
+
 ![Grasshopper Screenshot](https://drive.google.com/uc?export=view&id=1sxETRtWPyMQp0rBM49j1Z0yafUlLn6F_)
 
 <p align="center">Grasshopper Screenshot</p>
