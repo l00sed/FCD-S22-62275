@@ -9,7 +9,7 @@ This is an example project in the FCD S22 repo. It is meant to demonstrate the c
 
 **Contents**
 
-- `[M6 PDF](file:///C:/Users/ashle/Downloads/m6_ashleyadrienne-1.pdf)` of M6 submission
+- `[M6](file:///C:/Users/ashle/Downloads/m6_ashleyadrienne-1.pdf)` of M6 submission
 - additional `.gifs` or animated content
 - `.gh` script file
 - `.3dm` CAD model file
