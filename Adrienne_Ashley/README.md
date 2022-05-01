@@ -1,4 +1,4 @@
-# Example Project
+# Through The Looking Glass
 
 <p align="center">
     <img src="https://drive.google.com/file/d/1jsbZMLGz_PvcMdnmp0_MskVg78v5MjCs/view?usp=sharingg" />
@@ -18,7 +18,7 @@ This is an example project in the FCD S22 repo. It is meant to demonstrate the c
 
 ## Instructions for Use
 
-This project uses a _Grasshopper_ script&mdash; which is a file that contains the algorithm to generatively design our spaceframe. You must have Rhino X to open the [Rhino 7 Model](https://drive.google.com/file/d/1TsG78xIlalW8RwkJ7nTLx8rs12zjcqzY/view?usp=sharing) file.
+This project uses a _Grasshopper_ script&mdash; which is a file that contains the algorithm to generatively design our spaceframe. You must have Rhino X to open the [Rhino 7 Model](https://drive.google.com/file/d/1TsG78xIlalW8RwkJ7nTLx8rs12zjcqzY/view?usp=sharing)` file.
 
 **Dependencies**
 
