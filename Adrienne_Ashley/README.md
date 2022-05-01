@@ -18,7 +18,7 @@ This is an example project in the FCD S22 repo. It is meant to demonstrate the c
 
 ## Instructions for Use
 
-This project uses a _Grasshopper_ script&mdash; which is a file that contains the algorithm to generatively design our spaceframe. You must have Rhino X to open the `[Rhino 7 Model](https://drive.google.com/file/d/1TsG78xIlalW8RwkJ7nTLx8rs12zjcqzY/view?usp=sharing)` file.
+This project uses a _Grasshopper_ script&mdash; which is a file that contains the algorithm to generatively design our spaceframe. You must have Rhino X to open the [Rhino 7 Model](https://drive.google.com/file/d/1TsG78xIlalW8RwkJ7nTLx8rs12zjcqzY/view?usp=sharing) file.
 
 **Dependencies**
 
@@ -27,5 +27,5 @@ The _Grasshopper_ script uses:
   - Ladybug
   - Pufferfish
 
-Install these dependencies and then open the `[Grasshopper file](https://drive.google.com/file/d/17kVMZivwX1IcDHnJL04x2QHqxxRXzHwt/view?usp=sharing)` file in Rhino3D.
+Install these dependencies and then open the [Grasshopper file](https://drive.google.com/file/d/17kVMZivwX1IcDHnJL04x2QHqxxRXzHwt/view?usp=sharing) file in Rhino3D.
 
