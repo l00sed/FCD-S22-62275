@@ -1,7 +1,7 @@
 # Example Project
 
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/23065167/163903918-9d8c0cf8-3e32-4224-be9a-24e77a0e0f5f.png" />
+    <img src="https://drive.google.com/file/d/1jsbZMLGz_PvcMdnmp0_MskVg78v5MjCs/view?usp=sharingg" />
     <p align="center">Project Example by Teaching Assistant, Mitchell Foo</p>
 </p>
 
@@ -10,11 +10,11 @@ This is an example project in the FCD S22 repo. It is meant to demonstrate the c
 
 **Contents**
 
-- [M6 PDF](file:///C:/Users/ashle/Downloads/m6_ashleyadrienne-1.pdf) of M6 submission
-- additional `.gifs` or animated content
-- [gh file] (https://drive.google.com/file/d/17kVMZivwX1IcDHnJL04x2QHqxxRXzHwt/view?usp=sharing) script file
-- `.3dm` CAD model file
-- this `.md` README
+- [M6 PDF](https://drive.google.com/file/d/1_3wT1D0XKBfoEqbAH1Ywi6VI3_eW-H7R/view?usp=sharing) of M6 submission
+- [Sun Path through Structure GIF](https://drive.google.com/file/d/1D1Rx_V7pLvkZIPsN3CQamSX4NUXtWq3p/view?usp=sharing) or animated content
+- [Grasshopper file](https://drive.google.com/file/d/17kVMZivwX1IcDHnJL04x2QHqxxRXzHwt/view?usp=sharing) script file
+- [Rhino 7 Model](https://drive.google.com/file/d/1TsG78xIlalW8RwkJ7nTLx8rs12zjcqzY/view?usp=sharing) CAD model file
+
 
 ## Instructions for Use
 
