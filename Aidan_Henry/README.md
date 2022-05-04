@@ -1,5 +1,5 @@
 # Σκηνή
-![image](./Render_1.jpg)
+![./this-image-is-in-the-same-folder-as-my-readme.gif](./Render_1.jpg)
 
 <p align="center">
     <p align="center">Pavillion Render</p>
